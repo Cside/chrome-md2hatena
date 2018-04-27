@@ -60,6 +60,10 @@ astw@^2.0.0:
   dependencies:
     acorn "^4.0.3"
 
+babelify@^8.0.0:
+  version "8.0.0"
+  resolved "https://registry.yarnpkg.com/babelify/-/babelify-8.0.0.tgz#6f60f5f062bfe7695754ef2403b842014a580ed3"
+
 bail@^1.0.0:
   version "1.0.3"
   resolved "https://registry.yarnpkg.com/bail/-/bail-1.0.3.tgz#63cfb9ddbac829b02a3128cd53224be78e6c21a3"
