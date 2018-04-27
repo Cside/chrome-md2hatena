@@ -11,7 +11,7 @@ const handler = () => {
 };
 
 chrome.contextMenus.create({
-    "title" : 'selection',
+    "title" : 'Markdown to Hatena',
     "type" : "normal",
     "contexts" : ['selection'],
     "onclick" : handler,
