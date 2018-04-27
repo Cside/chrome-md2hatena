@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "author": "Cside <cside.story@gmail.com>",
   "license": "MIT",
+  "scripts": {
+    "build-bg": "$(npm bin)/browserify bg.js -o bg.bundle.js"
+  },
   "devDependencies": {
     "babel-core": "^6.26.2",
     "babelify": "^8.0.0",
