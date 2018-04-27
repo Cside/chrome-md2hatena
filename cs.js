@@ -3,7 +3,7 @@ chrome.runtime.onMessage.addListener((req, _, cb) => {
         cb(window.getSelection().toString());
     } else if (req.action === 'paste') {
         const textarea = document.querySelector('textarea')
-        textarea.value = textarea.value.replace(req.md, `[${req.hatena}]`);
+        textarea.value = textarea.value.replace(req.md, req.hatena);
     }
     return true;
 });
