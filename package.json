@@ -4,6 +4,7 @@
   "author": "Cside <cside.story@gmail.com>",
   "license": "MIT",
   "devDependencies": {
+    "browserify": "^16.2.0",
     "md2hatena": "^0.3.1"
   }
 }
