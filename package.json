@@ -4,6 +4,7 @@
   "author": "Cside <cside.story@gmail.com>",
   "license": "MIT",
   "devDependencies": {
+    "babel-core": "^6.26.2",
     "babelify": "^8.0.0",
     "browserify": "^16.2.0",
     "md2hatena": "^0.3.1"
