@@ -1,0 +1,10 @@
+{
+    "name": "md2hatena",
+    "description": "Markdown to Hatena",
+    "version": "0.01",
+    "permissions": ["contextMenus"],
+    "background": {
+      "scripts": ["bg.js"]
+    },
+    "manifest_version": 2
+}
