@@ -14,7 +14,7 @@
       }
     ],
     "background": {
-      "scripts": ["bg.js"]
+      "scripts": ["bg.bundle.js"]
     },
     "manifest_version": 2
 }
